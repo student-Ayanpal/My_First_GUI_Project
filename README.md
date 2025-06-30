@@ -36,44 +36,54 @@ I created this project as a beginner-level practice exercise while learning **Py
 ---
 
 ## 📷 GUI Preview
-
+<br>
 +------------------------------------------------+
+<br>
 | Enter the Sentence |
+<br>
 | [ This is a simple sentence example ] |
+<br>
 +------------------------------------------------+
-
+<br>
 [ Input Sentence Button ]
-
+<br>
 +------------------------------------------------+
+<br>
 | Enter one word which is present in the sentence|
+<br>
 | [ simple ] |
+<br>
 +------------------------------------------------+
-
+<br>
 [ Input Word Button ]
+<br>
 [ Show Output Button ]
+<br>
 [ Clear All Button ]
+<br>
 [ Exit Button ]
+<br>
 
 +------------------------------------------------+
+<br>
 | Output |
+<br>
 | [ This is a sentence example ] |
+<br>
 +------------------------------------------------+
+<br>
 
-yaml
-Copy
-Edit
+
 
 ---
 
 ## 📁 File Structure
 
 remove-word-mini-project/
-├── main.py # The main Python script
+├── project-1.py # The main Python script
 ├── README.md # This file
 
-yaml
-Copy
-Edit
+
 
 ---
 
