@@ -80,7 +80,9 @@ I created this project as a beginner-level practice exercise while learning **Py
 ## 📁 File Structure
 
 remove-word-mini-project/
+<br>
 ├── project-1.py # The main Python script
+<br>
 ├── README.md # This file
 
 
